@@ -1,0 +1,99 @@
+h1 {
+    color: black;
+}
+
+p {
+    font-size: 18px;
+}
+
+
+First Code {
+    background-color: pink;
+}
+
+h1 {
+    font-size: 20px;
+}
+
+/* Element selector */
+p {
+    color: gray;
+}
+
+/* Class selector: starts with a dot */
+.intro {
+    font-size: 18px;
+}
+
+/* ID selector: starts with a hash */
+#title {
+    color: rgba(68, 51, 45, 0.777);
+    text-align: center;
+}
+
+body {
+    background-color: rgb(154, 147, 147);
+}
+
+p {
+    color: lightpink;
+}
+
+ul {
+    color: yellow;
+}
+
+section {
+    border: 2px solid purple;
+}
+
+section {
+    border: 2px solid purple;
+    border-radius: 12px;
+}
+
+.card {
+    margin: 20px;
+    padding: 15px;
+    border: 2px solid purple;
+}
+
+img {
+    width: 550px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+b {
+    color: black;
+}
+
+table {
+    color: blue;
+}
+
+p {
+    margin-bottom: 20px;
+}
+
+h1 {
+    margin-bottom: 25px;
+}
+
+h2 {
+    margin-bottom: 15px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+form {
+
+
+    label {
+        margin-bottom: 20px;
+    }
+}
